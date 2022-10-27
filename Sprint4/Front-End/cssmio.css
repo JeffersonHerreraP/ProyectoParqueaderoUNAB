@@ -1,0 +1,19 @@
+
+body{
+ background-color: cornflowerblue;
+ 
+}
+
+table thead{
+    font-size: 30px;
+    background: #302b63;
+    color:white;
+}
+
+.titulo{
+    font-size: 30px;
+}
+
+.titulo1{
+    font-size: 25px;
+}
